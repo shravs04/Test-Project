@@ -1,0 +1,22 @@
+.Moviespage{
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(90% - 2px);
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.Card{
+    width: 12%;
+    margin-right: 16px;
+    margin-bottom: 1%;
+}
+
+.Card > img{
+    width: 100%;
+}
+
+.Card > h3{
+    text-align: left;
+    margin-top: 8px;
+}

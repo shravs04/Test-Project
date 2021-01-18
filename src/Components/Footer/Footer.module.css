@@ -1,0 +1,61 @@
+.Footer{
+    width: 100%;
+    margin-top: 40px;
+    background-color: #1E1E1E;
+    padding: 35px 0px;
+    box-sizing: border-box;
+}
+
+.UpperItems{
+    display: flex;
+    align-items: center;
+    margin-left: 9%;
+}
+
+.UpperItems > p{
+    color: #8C9193;
+    margin-right: 15px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+/* 676364 */
+.Copyright{
+    color: #676364;
+    margin-right: 53.8%;
+}
+
+.Copyright > p{
+    margin-top: 0px;
+}
+
+.Bottomwrapp{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.Icons{
+    width: 100%;
+    display: flex;
+    margin-left: 9.8%;
+}
+
+.Icons > i{
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-right: 25px;
+}
+
+.Images{
+    width: 100%;
+    display: flex;
+    /* margin-left: 10%; */
+}
+
+.Images > img{
+    width: 22%;
+    margin-right: 4%;
+}

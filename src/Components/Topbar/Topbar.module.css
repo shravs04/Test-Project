@@ -1,0 +1,56 @@
+.Header{
+    width: 100%;
+    margin: 0%;
+}
+
+.Topwrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #0083FD;
+}
+
+.Leftsection{
+    margin-left: 10%;
+    margin-bottom: 0%;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+.Leftsection > h1{
+    color: white;
+}
+
+nav{
+    width: 17%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50%;
+    color: white;
+}
+
+nav > a {
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.Rightitem{
+    padding: 10px;
+    background-color: #414141;
+    cursor: pointer;
+}
+
+.Tiles{
+    width: 100%;
+    background-color: #414141;
+    /* margin-top: 0px; */
+}
+
+.Tiles > h1{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 67.5%;
+    padding: 11px 0px;
+}

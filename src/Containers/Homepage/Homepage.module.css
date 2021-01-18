@@ -1,0 +1,33 @@
+.Homepage{
+    margin-top: 50px;
+    width: 50%;
+    display: flex;
+    margin-left: 10%;
+}
+
+.Seriesdiv{
+    margin-right: 4%;
+}
+
+.None{
+    text-decoration: none;
+}
+
+.Seriesdiv > p{
+    text-align: left;
+    color: #615051;
+    margin-top: 9px;
+}
+
+.Main{
+    padding: 70px 20px;
+    background-color: #1E1E1E;
+    color: white;
+    text-decoration: none;
+}
+
+.Moviesdiv > p{
+    text-align: left;
+    color: #615051;
+    margin-top: 9px;
+}
